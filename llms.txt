@@ -1,0 +1,18 @@
+# sequentialist-search
+
+> Planning-only repository for a potential search-application engineering layer.
+> No implemented package, public API, runtime or general-purpose solver exists here.
+> Exact responsibility remains a design decision.
+
+## Documentation
+
+- [README](README.md): Current status, ecosystem layers and package boundaries.
+- [Planning overview and FAQ](docs/overview.md): Planned use cases, candidate inputs/outputs and unresolved design decisions; no implemented API claims.
+- [Обзор и вопросы на русском](docs/overview.ru.md): Faithful Russian overview of the planned role, candidate use cases and boundaries; no implemented API claims.
+- [Repository context](AGENTS.md): Instructions for work on this planning-only repository.
+
+## Related repositories
+
+- [sequential-search](https://github.com/andre-a-no/sequential-search): Mathematical/cybernetic search algorithms and abstractions.
+- [sequentialist-core](https://github.com/andre-a-no/sequentialist-core): Reusable application execution, persistence and audit.
+- [sequentialist-agentic](https://github.com/andre-a-no/sequentialist-agentic): Agent and tool integrations.
